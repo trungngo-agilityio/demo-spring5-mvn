@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.agilityio.spring5demo.startermongodb.autoconfigure.AgStarterMongodbAutoConfiguration
